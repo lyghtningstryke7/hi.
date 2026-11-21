@@ -1,0 +1,13 @@
+{
+  "name": "Hi.",
+  "short_name": "Hi.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "hiicon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
